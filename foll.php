@@ -1,4 +1,7 @@
 <?php
+/**
+@thx to https://github.com/corrykalam
+*/
 date_default_timezone_set("Asia/Jakarta");
 require("./ModulKu.php");
 $m = new ModulKu();
