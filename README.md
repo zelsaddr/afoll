@@ -1,5 +1,6 @@
 # afoll
 Auto Followers IG
 <br>
-Clone
+Clone <br>
 php foll.php zeldin.me
+thx to https://github.com/corrykalam
